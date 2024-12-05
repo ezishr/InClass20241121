@@ -9,7 +9,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="cmdSample" runat="server" Text="Sample Button" />
         </div>
     </form>
 </body>
